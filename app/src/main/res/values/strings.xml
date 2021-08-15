@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">AOS_STUDY</string>
+    <string name="nav_home">홈</string>
+    <string name="nav_location">지역</string>
+    <string name="nav_my_location">내주변</string>
+    <string name="nav_heart">찜</string>
+    <string name="nav_my_page">MY야놀자</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
