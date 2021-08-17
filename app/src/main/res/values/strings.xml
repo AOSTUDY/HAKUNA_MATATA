@@ -6,5 +6,7 @@
     <string name="nav_heart">찜</string>
     <string name="nav_my_page">MY야놀자</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
-
+    <string name="yanolja">yanolja</string>
+    <string name="where_go">어디로 놀러갈까요?</string>
+    <string name="trend"> NEW &amp; HOT</string>
 </resources>

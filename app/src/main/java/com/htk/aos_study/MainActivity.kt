@@ -25,6 +25,7 @@ class MainActivity : BaseActivity<ActivityMainBinding>({ ActivityMainBinding.inf
     }
 
     private fun initNavView() {
+
         binding.apply {
             navView.setOnItemSelectedListener {
                 when (it.itemId) {
