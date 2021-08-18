@@ -12,10 +12,10 @@ class TabLayoutAdapter(fa : FragmentActivity): FragmentStateAdapter(fa){
 
     override fun createFragment(position: Int): Fragment {
         return when(position) {
-            1 -> RecFragment()
-            2 -> DomesticFragment()
-            3 -> EntertainmentFragment()
-            4 -> TrafficFragment()
+            0 -> RecFragment()
+            1 -> DomesticFragment()
+            2 -> EntertainmentFragment()
+            3 -> TrafficFragment()
             else -> OverseasFragment()
         }
     }

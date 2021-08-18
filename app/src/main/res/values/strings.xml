@@ -9,4 +9,9 @@
     <string name="yanolja">yanolja</string>
     <string name="where_go">어디로 놀러갈까요?</string>
     <string name="trend"> NEW &amp; HOT</string>
+    <string name="bus">고속버스</string>
+    <string name="sale">오늘의 특가</string>
+    <string name="weekly">위클리 인기 Top</string>
+    <string name="weekly_many">지난주 구매 기반 인기 많은 순</string>
+    <string name="won">1100원</string>
 </resources>
