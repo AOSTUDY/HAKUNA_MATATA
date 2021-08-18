@@ -7,7 +7,7 @@ import androidx.viewbinding.ViewBinding
 
 abstract class BaseActivity<T : ViewBinding>(
     val bindingFactory: (LayoutInflater) -> T
-) : AppcompatActivity() {
+) : AppCompatActivity() {
     private var _binding: T? = null
     val binding get() = _binding!!
 
