@@ -1,2 +1,8 @@
 rootProject.name = "AOS_STUDY"
 include ':app'
+include ':app:presentation'
+include ':app:domain'
+include ':app:data'
+include ':data'
+include ':presentation'
+include ':domain'
